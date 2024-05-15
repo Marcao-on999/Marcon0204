@@ -1,1 +1,6 @@
+
+
+
+
 # Marcon0204
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc :attributionURL" href="https://editor.p5js.org/EstudanteAlura/sketches/TiFqrrG8a">Este trabalho está marcado com CC0 1.0. Para visualizar uma cópia desta licença, visite https://creativecommons.org/publicdomain/zero/1.0/ por O by Optimus Prime está licenciado sob Creative Commons Attribution-ShareAlike 4.0 International</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://OptimusPrime.com">Optimus Prime</a> está licenciado sob <a href="https://creativecommons.org/licenses/by-sa /4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 Internacional<img style="height:22px!important ;margem esquerda:3px;alinhamento vertical:texto inferior;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical -align:texto inferior;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical -align:texto inferior;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
